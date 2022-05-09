@@ -7,4 +7,5 @@ import lombok.Data;
 @Data
 public class SearchMessage {
 	private Intent intent;
+	private int fjfj;
 }
